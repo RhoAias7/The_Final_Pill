@@ -7,6 +7,6 @@ InstaFeed - This API mainly displays a user's instagram posts by entering the us
 
 # CRUD Analysis
 C - In order for the User to access the Chat room they must signup for an account.
-R - The Webapp reads data such as the a user's password from the database.
-U - The User is able to reset their password and that is updated in the database.
-D - The User may delete their account.
+<br />R - The Webapp reads data such as the a user's password from the database.
+<br />U - The User is able to reset their password and that is updated in the database.
+<br />D - The User may delete their account.
